@@ -26,7 +26,8 @@ Welcome to my creative writing repository! This is a comprehensive collection of
 📂 CreativeWriting-AadityaamlanPanda/
 ├── 📁 My Poems/                    # Original poetry collection
 ├── 📁 My articles/                 # Thought-provoking articles
-├── 📁 My translations/             # Literary translations (Odia ↔ English)
+├── 📁 My stories/                  # My hand at writing proses
+|── 📁 My translations/             # Literary translations (Odia ↔ English)
 ├── 📄 BIO.docx                     # Author biography
 ├── 📄 My quotes and one liners.docx # Inspirational quotes and thoughts
 └── 📄 README.md                    # This file
@@ -110,3 +111,4 @@ If you enjoy my work:
 **Tags**: `poetry` `creative-writing` `literature` `translations` `odia-literature` `international-anthologies` `iit-kanpur` `youth-icon` `storymirror`
 
 This README file presents your creative writing repository in a professional and engaging manner, highlighting your achievements while making the content accessible to visitors. It includes proper structure, badges for visual appeal, and clear sections that showcase your literary accomplishments and the repository's contents.
+
