@@ -1,7 +1,5 @@
-# Creative Writing Repository - README.md
 
-
-# 📚 Creative Writing Collection - Aaditya Amlan Panda
+## 📚 Creative Writing Collection - Aaditya Amlan Panda
 
 ![Creative Writing](https://img.shields.io/badge/Creative%20Writing-Poetry%20%7C%20Articles%20%7C%20Translations-blue)
 ![Author](https://img.shields.io/badge/Author-Aaditya%20Amlan%20Panda-green)
@@ -111,4 +109,5 @@ If you enjoy my work:
 **Tags**: `poetry` `creative-writing` `literature` `translations` `odia-literature` `international-anthologies` `iit-kanpur` `youth-icon` `storymirror`
 
 This README file presents your creative writing repository in a professional and engaging manner, highlighting your achievements while making the content accessible to visitors. It includes proper structure, badges for visual appeal, and clear sections that showcase your literary accomplishments and the repository's contents.
+
 
